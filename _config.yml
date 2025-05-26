@@ -1,0 +1,10 @@
+title: My Bulma Site
+description: A clean GitHub Pages site using Bulma Clean Theme
+url: "https://iwuchem.github.io"
+baseurl: ""
+
+remote_theme: chrisrhymes/bulma-clean-theme
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
