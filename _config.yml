@@ -8,3 +8,4 @@ remote_theme: chrisrhymes/bulma-clean-theme@v1.2.1
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+   - jekyll-remote-theme
