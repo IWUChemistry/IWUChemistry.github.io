@@ -7,7 +7,7 @@ permalink: pretty
 #favicon: /img/icons/favicon.png
 theme_color: '#b02b21'
 #footer_menu: footer_menu
-#logo: /img/ccqc_logo.png
+logo: ott_hall.jpg
 
 
 remote_theme: chrisrhymes/bulma-clean-theme@v0.14.0
