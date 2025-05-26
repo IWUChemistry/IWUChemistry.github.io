@@ -3,9 +3,9 @@ description: A clean GitHub Pages site using Bulma Clean Theme
 url: "https://iwuchem.github.io"
 baseurl: ""
 
-remote_theme: chrisrhymes/bulma-clean-theme@v1.2.1
+remote_theme: chrisrhymes/bulma-clean-theme@v0.14.0
 
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-   - jekyll-remote-theme
+  - jekyll-remote-theme
