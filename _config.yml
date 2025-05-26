@@ -1,13 +1,13 @@
 title: My Bulma Site
 description: A clean GitHub Pages site using Bulma Clean Theme
 url: "https://iwuchemistry.github.io"
-baseurl: "/iwuchem.github.io"
+baseurl: ""
 
 permalink: pretty
 #favicon: /img/icons/favicon.png
 theme_color: '#b02b21'
 #footer_menu: footer_menu
-logo: ott_hall.jpg
+logo: /img/ott_hall.jpg
 
 
 remote_theme: chrisrhymes/bulma-clean-theme@v0.14.0
