@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Indiana Wesleyan University Chemistry Department
-hero_image: /img/ott_hall.png
+hero_image: /img/ott_hall.jpg
 hero_height: is-fullheight
 hero_darken: true
 ---
