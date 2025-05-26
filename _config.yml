@@ -4,11 +4,17 @@ url: "https://iwuchemistry.github.io"
 baseurl: ""
 
 permalink: pretty
-#favicon: /img/icons/favicon.png
+favicon: /img/favicon.png
 theme_color: '#b02b21'
 #footer_menu: footer_menu
 logo: /img/ott_hall.jpg
 
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /img/ott_hall.jpg
+      author: Nate Kitzmiller
 
 remote_theme: chrisrhymes/bulma-clean-theme@v0.14.0
 
