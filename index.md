@@ -1,6 +1,6 @@
 ---
-title: IWU Chemistry Department
-layout: page
+layout: default
+title: Home
 ---
 
 # IWU Chemistry Department
