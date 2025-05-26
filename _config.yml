@@ -1,7 +1,7 @@
 title: My Bulma Site
 description: A clean GitHub Pages site using Bulma Clean Theme
-url: "https://iwuchem.github.io"
-baseurl: ""
+url: "https://iwuchemistry.github.io"
+baseurl: "/iwuchem.github.io"
 
 permalink: pretty
 #favicon: /img/icons/favicon.png
