@@ -1,2 +1,11 @@
 - name: People
   link: /people/
+- name: Facilities
+  link: /facilities/
+  dropdown:
+    - name: Buildings
+      link: /facilities/buildings/
+    - name: Equipment
+      link: /facilities/equipment/
+- name: Undergraduate Research
+- link: /undergradresearch/ 
