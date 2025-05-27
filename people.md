@@ -1,5 +1,5 @@
 ---
-title: Group Members
+title: Faculty and Staff
 menubar: people_menu
 layout: page
 ---
