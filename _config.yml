@@ -7,13 +7,13 @@ permalink: pretty
 favicon: /img/favicon.png
 theme_color: '#b02b21'
 #footer_menu: footer_menu
-logo: /img/ott_hall.png
+logo: /img/otthall.JPG
 
 defaults:
   - scope:
       path: ""
     values:
-      image: /img/ott_hall.png
+      image: /img/otthall.JPG
       author: Nate Kitzmiller
 
 remote_theme: chrisrhymes/bulma-clean-theme@v0.14.0
