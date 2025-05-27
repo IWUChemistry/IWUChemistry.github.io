@@ -5,7 +5,7 @@ baseurl: ""
 
 permalink: pretty
 favicon: /img/favicon.png
-theme_color: '#b02b21'
+theme_color: '#ae1131'
 #footer_menu: footer_menu
 logo: /img/otthall.JPG
 
