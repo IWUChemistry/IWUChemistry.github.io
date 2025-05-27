@@ -3,8 +3,10 @@
 - name: Facilities
   link: /facilities/
   dropdown:
-    - name: Buildings
-      link: /facilities/buildings/
+    - name: Ott Hall
+      link: /facilities/otthall/
+    - name: Burns Hall
+      link: /facilities/burnshall/
     - name: Equipment
       link: /facilities/equipment/
 - name: Undergraduate Research
