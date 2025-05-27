@@ -1,8 +1,11 @@
+
 # IWU Computational Chemistry Cluster – *Sisyphus*
 
 This document provides an overview of the **Sisyphus** cluster used by the IWU Chemistry department.
 
 ---
+title: Teaching and Research Equipment
+layout: page
 
 ## 🔧 System Overview
 
